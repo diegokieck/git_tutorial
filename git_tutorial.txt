@@ -1,0 +1,21 @@
+1. Setup Git 
+2. Setup user:
+    git config --global user.name "Your Name"
+    git config --global user.email "your.email@example.com"
+3. Initate repository
+4. clone remote repo
+5. Add file you wish to commit
+6. Comit write commit message
+
+How to create a branch:
+    git branch <branch_name>
+switch to a branch 
+    git checkout <branch_name>
+merge another branch on currente branch
+    git merge <branch_name>
+
+git remote add origin <repositoy_url>
+git push origin <branch_name>
+git pull origin <branch_name>
+
+
